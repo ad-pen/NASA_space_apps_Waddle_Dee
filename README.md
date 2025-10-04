@@ -1,4 +1,4 @@
-# Waddle Dee
+# RM10
 
 **Challenge:** SpaceTrash Hack: Revolutionizing Recycling on Mars  
 **Date:** 4/10/2025 14:00  
@@ -11,14 +11,14 @@ Help create a waste management infrastructure for future planetary missions.
 ---
 
 ## Overview
-Waddle Dee is an educational 3D simulation game developed for the NASA Space Apps Challenge 2025.  
-Set in Jezero Crater on Mars, the game puts players in control of a drone tasked with cleaning, sorting, and recycling waste.  
+RM10 is an educational 3D simulation game developed for the NASA Space Apps Challenge 2025.  
+Set in Jezero Crater on Mars, the game puts players in control of a rover tasked with cleaning, sorting, and recycling waste.  
 Through interactive missions, puzzles, and storytelling, the game teaches middle and high school students about sustainability, biotechnology, recycling, and automation in an engaging and memorable way.
 
 ---
 
 ## Gameplay Flow
-1. Explore Jezero Crater and collect waste using the drone.  
+1. Explore Jezero Crater and collect waste using the rover.  
 2. Sort and analyze recovered materials.  
 3. Rebuild DNA for a plastic-degrading bacteria.  
 4. Use the bacteria to process unrecyclable waste.  
@@ -49,7 +49,7 @@ Through interactive missions, puzzles, and storytelling, the game teaches middle
 ## Missions
 
 ### Mission 1
-The drone identifies and collects waste scattered across Jezero Crater, sorting materials into recyclable, bioprocessable, and unusable categories — exactly as future crews would.  
+The rover identifies and collects waste scattered across Jezero Crater, sorting materials into recyclable, bioprocessable, and unusable categories — exactly as future crews would.  
 Waste examples include:  
 - Air cushions recycled into polyethylene  
 - Polymer matrix composites recycled into thermoplastic resin and carbon fiber  
@@ -72,11 +72,6 @@ This section of the game aims to bridge the gap between Learning & other-worldy 
 - **Maani** – Voice Acting, Scriptwriting, Audio Design, Game Design  
 - **Yousef** – Game Design, Puzzle Making, Team Coordination, Research  
 - **Abdallah** – Game Design, Puzzle Making, Research, Documentation  
-
----
-
-## Future Work
-- 
 
 ---
 
