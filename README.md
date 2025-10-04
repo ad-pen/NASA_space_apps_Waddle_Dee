@@ -107,5 +107,11 @@ All voiceovers were recorded by team members on competition grounds during the 4
 
 ---
 
+## Contact Info
+00962790544636 - 00962798550519 - 00962792946535
+ad396.pen@gmail.com - y.aldahouk1@gju.edu.jo
+
+---
+
 ## License
 
