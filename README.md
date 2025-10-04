@@ -102,7 +102,15 @@ All voiceovers were recorded by team members on competition grounds during the 4
 
 **Perceverance Coloring Picture**: https://astrobiology.nasa.gov/resources/coloring/
 
-**Wastes on Mars and What They Consist of (Google Drive links within this URL)**: https://www.spaceappschallenge.org/2025/challenges/spacetrash-hack-revolutionizing-recycling-on-mars/?tab=resources
+**Research**:
+- https://sciences.ucf.edu/class/simulant_marsglobal/
+- https://images.nasa.gov/details/JPL-20211221-M2020f-0001-Explore_Mars_Jezero_Crater_with_NASAs_Perseverance_Rover
+- https://images.nasa.gov/details/JPL-20220906-Perseverance_Explores_Jezero_Crater_Delta_UHD
+- https://science.nasa.gov/mars/facts/
+- https://dataverse.jpl.nasa.gov/file.xhtml?fileId=4047&version=2.0
+- https://ntrs.nasa.gov/api/citations/20140010284/downloads/20140010284.pdf
+- https://ntrs.nasa.gov/citations/20240004496
+- https://drive.google.com/file/d/12cxywjd3-mkEroySLN04595gx7K7AVmQ/view?usp=sharing
 
 
 ---
