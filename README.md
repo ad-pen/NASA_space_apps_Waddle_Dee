@@ -88,5 +88,17 @@ All voiceovers were recorded by team members on competition grounds during the 4
 
 ---
 
+## NASA Datasets Used
+**detailed panorama of mars jezero crater delta**: https://www.jpl.nasa.gov/images/pia24921-detailed-panorama-of-mars-jezero-crater-delta/
+**discovered potential biosignature**: https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/
+**names of earthlings are on mars**: https://science.nasa.gov/missions/mars-2020-perseverance/nearly-11-million-names-of-earthlings-are-on-mars-perseverance/
+**Blue-Print-Style Rover Sketch**: https://science.nasa.gov/resource/blue-print-style-rover-sketch-artists-concept/
+**2020 rover artists concept 2**: https://science.nasa.gov/resource/nasas-mars-2020-rover-artists-concept-2/
+**Perceverance Coloring Picture**: https://astrobiology.nasa.gov/resources/coloring/
+**Wastes on Mars and What They Consist of (Google Drive links within this URL)**: https://www.spaceappschallenge.org/2025/challenges/spacetrash-hack-revolutionizing-recycling-on-mars/?tab=resources
+
+
+---
+
 ## License
 
